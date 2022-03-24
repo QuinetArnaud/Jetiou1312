@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jetiou1312
 - 👀 I’m interested in robotics, automation
-- 🌱 I’m currently learning Automation in industrial robotics
+- 🌱 I’m currently learning Automation in industrial robotics. I'm in last year in an automation Bachelor
 
 
 
